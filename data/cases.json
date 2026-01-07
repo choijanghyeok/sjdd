@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "강남 카페 매출 200% 상승",
+    "category": "F&B",
+    "metric": "ROAS 400%",
+    "thumbnail": "/images/case1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "뷰티 브랜드 틱톡 100만 조회수",
+    "category": "Beauty",
+    "metric": "조회수 100만+",
+    "thumbnail": "/images/case2.jpg"
+  },
+  {
+    "id": "3",
+    "title": "에듀테크 스타트업 수강생 3배 증가",
+    "category": "Education",
+    "metric": "전환율 5.2%",
+    "thumbnail": "/images/case3.jpg"
+  }
+]
